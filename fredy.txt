@@ -1,0 +1,1 @@
+Hi, Fredy. I am creating this file to test "fetch" and "merge" fetchers. 
