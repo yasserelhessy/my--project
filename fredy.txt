@@ -1,1 +1,2 @@
 Hi, Fredy. I am creating this file to test "fetch" and "merge" fetchers. 
+i would like to test the "$git commit -a" in case updating any changes in existing file.  
