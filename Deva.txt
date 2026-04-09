@@ -1,1 +1,2 @@
 This is the first text file I created and committed to the git repositery.
+This is the second line in this file. I want to test the changes in this file.
